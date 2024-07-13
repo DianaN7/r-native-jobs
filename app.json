@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "jobsift",
+    "slug": "job-search",
+    "extra": {
+      "eas": {
+        "projectId": "e43c5a6e-09f9-4447-81ec-ae52f03b22a5"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/b7060894-ba74-4dc0-92c5-088888bb82ef"
+    },
+    "android": {},
+    "ios": {},
+    "owner": "diana_n7"
+  }
+}
